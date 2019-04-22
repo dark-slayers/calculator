@@ -1,4 +1,4 @@
-package person.liuxx.fgo.data;
+package person.liuxx.calculator.fgo.data;
 
 /** 
 * @author  刘湘湘 

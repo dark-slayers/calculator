@@ -1,4 +1,4 @@
-package person.liuxx.fgo.config;
+package person.liuxx.calculator.config;
 
 import org.springframework.boot.web.servlet.FilterRegistrationBean;
 import org.springframework.boot.web.servlet.ServletRegistrationBean;

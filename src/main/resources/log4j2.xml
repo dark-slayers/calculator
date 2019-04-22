@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <configuration status="error">
 	<Properties>
-		<Property name="log_dir">D:/logs/fgo-calculator</Property>
+		<Property name="log_dir">D:/logs/calculator</Property>
 		<Property name="log_date">%d{yy-MM-dd 'at' HH:mm:ss SSS}</Property>
 		<Property name="log_content">[%-5level] %class{36} (%M) :%L -> %msg%xEx%n</Property>
 		<Property name="log_text">${log_date} ${log_content}</Property>

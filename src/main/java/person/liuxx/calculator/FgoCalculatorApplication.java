@@ -1,4 +1,4 @@
-package person.liuxx.fgo;
+package person.liuxx.calculator;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
