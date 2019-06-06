@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class TestController
 {
     @GetMapping(value = "/test")
-    String listSystemAddresses(ServletRequest request)
+    String test(ServletRequest request)
     {
         return "TEST SUCCED !";
     }
