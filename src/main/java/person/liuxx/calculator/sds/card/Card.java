@@ -7,4 +7,14 @@ package person.liuxx.calculator.sds.card;
 public class Card
 {
     private CardLevelEnum cardLevel;
+
+    public CardLevelEnum getCardLevel()
+    {
+        return cardLevel;
+    }
+
+    public void setCardLevel(CardLevelEnum cardLevel)
+    {
+        this.cardLevel = cardLevel;
+    }
 }
